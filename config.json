@@ -1,0 +1,15 @@
+{
+  "BASENAME": ["REGLFOUR","DEMO"],
+  "FRMDIR": "E:\\Docubase\\",
+  "CLIENT": "E:\\Docubase\\client\\",
+  "ROOT": "E:\\Traitement_Capture\\Traite\\SPOOLS\\",
+  "CACHEDIR": "E:\\Traitement_Capture\\cache\\",
+  "BINDIR": "E:\\Docubase\\AMF\\server\\bin\\",
+  "ROOTBATCH": "E:\\Traitement_Capture\\Transfert\\Spools\\",
+  "USER": "ged04",
+  "USERADMIN":"_ADMIN",
+  "PASSWORDADMIN": "dsiw2k3",
+  "PASSWORD": "gedw2k3",
+  "SRV": "sabcged103",
+  "PORT": "4020"
+}
